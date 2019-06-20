@@ -25,7 +25,7 @@ once it is done. This will install hyperledger fabric in the system. Now go back
 
 Pull the repository for yourself.
 
-``` git clone https://github.com/deenario/Banking-System-Blockchain.git```
+``` git clone https://github.com/RishiBoda1405/Banking-System-Blockchain.git```
 
 ``` cd Banking-System-Blockchain/fabric/first-network ```
 
